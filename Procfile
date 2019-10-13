@@ -1,1 +1,1 @@
-web: gunicorn goldens.wsgi --log-file -
+web: gunicorn goldenshoe.wsgi --log-file -
